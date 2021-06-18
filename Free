@@ -1,698 +1,488 @@
 #EXTM3U
+Lokal
+#EXTINF:-1,Antara TV
+https://nonton.site:8443/siingkat/Sp4in2021/32586
+#EXTINF:-1,ANTV
+https://nonton.site:8443/siingkat/Sp4in2021/31
+#EXTINF:-1,Bali TV
+https://nonton.site:8443/siingkat/Sp4in2021/889
+#EXTINF:-1,DAAI TV
+https://nonton.site:8443/siingkat/Sp4in2021/21
+#EXTINF:-1,Dunia Lain
+https://nonton.site:8443/siingkat/Sp4in2021/910
+#EXTINF:-1,Hope Channel
+https://nonton.site:8443/siingkat/Sp4in2021/30183
+#EXTINF:-1,Indosiar
+https://nonton.site:8443/siingkat/Sp4in2021/1845
+#EXTINF:-1,Jak TV
+https://nonton.site:8443/siingkat/Sp4in2021/1210
+#EXTINF:-1,JTV
+https://nonton.site:8443/siingkat/Sp4in2021/135
+#EXTINF:-1,Life
+https://nonton.site:8443/siingkat/Sp4in2021/1772
+#EXTINF:-1,NET TV
+https://nonton.site:8443/siingkat/Sp4in2021/24
+#EXTINF:-1,NET TV FHD
+https://nonton.site:8443/siingkat/Sp4in2021/78
+#EXTINF:-1,Rajawali TV
+https://nonton.site:8443/siingkat/Sp4in2021/37
+#EXTINF:-1,SCTV
+https://nonton.site:8443/siingkat/Sp4in2021/32
+#EXTINF:-1,SCTV HD
+https://nonton.site:8443/siingkat/Sp4in2021/931
+#EXTINF:-1,Trans 7
+https://nonton.site:8443/siingkat/Sp4in2021/35
+#EXTINF:-1,Trans 7 FHD
+https://nonton.site:8443/siingkat/Sp4in2021/930
+#EXTINF:-1,Trans TV
+https://nonton.site:8443/siingkat/Sp4in2021/34
+#EXTINF:-1,Trans TV FHD
+https://nonton.site:8443/siingkat/Sp4in2021/929
+#EXTINF:-1,U Channel
+https://nonton.site:8443/siingkat/Sp4in2021/1208
+#EXTINF:-1,Kontes Nyanyi
+https://nonton.site:8443/siingkat/Sp4in2021/36958
+#EXTINF:-1,Kompas TV
+https://nonton.site:8443/siingkat/Sp4in2021/30
+#EXTINF:-1,Metro TV
+https://nonton.site:8443/siingkat/Sp4in2021/52
+#EXTINF:-1,Metro TV HD
+https://nonton.site:8443/siingkat/Sp4in2021/1697
+#EXTINF:-1,TV ONE
+https://nonton.site:8443/siingkat/Sp4in2021/29
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="VIDIO",SCTV 
-https://etslive-2-vidio-com.akamaized.net/exp=1621400417~acl=/hls-p/ingest_204_*/*~hmac=abf9a9b015059349b82c3e45ffc7936140427a089b98971a3565abdedd9aed75/hls-p/ingest_204_720p/index.m3u8 
+News
+#EXTINF:-1,ATV
+https://nonton.site:8443/siingkat/Sp4in2021/29899
+#EXTINF:-1,AXN
+https://nonton.site:8443/siingkat/Sp4in2021/9
+#EXTINF:-1,Bioskop Indonesia
+https://nonton.site:8443/siingkat/Sp4in2021/908
+#EXTINF:-1,Blue Ant Extreme HD
+https://nonton.site:8443/siingkat/Sp4in2021/811
+#EXTINF:-1,CCM
+https://nonton.site:8443/siingkat/Sp4in2021/2118
+#EXTINF:-1,Celestial Movies
+https://nonton.site:8443/siingkat/Sp4in2021/5
+#EXTINF:-1,Cinema World
+https://nonton.site:8443/siingkat/Sp4in2021/1194
+#EXTINF:-1,Cinemax FHD
+https://nonton.site:8443/siingkat/Sp4in2021/30185
+#EXTINF:-1,Cinemax ID
+https://nonton.site:8443/siingkat/Sp4in2021/2156
+#EXTINF:-1,Cinemax SD
+https://nonton.site:8443/siingkat/Sp4in2021/26599
+#EXTINF:-1,FLIK HD
+https://nonton.site:8443/siingkat/Sp4in2021/29592
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="VIDIO",INDOSIAR 
-https://etslive-2-vidio-com.akamaized.net/exp=1621400270~acl=/hls-p/ingest_205_*/*~hmac=27dbe9fc956216ec0a89b103f6fa32af5c55d1d24cc8fb445586e54481806a71/hls-p/ingest_205_720p/index.m3u8 
+Fox grup
+#EXTINF:-1,FOX Action Movies FHD
+https://nonton.site:8443/siingkat/Sp4in2021/1478
+#EXTINF:-1,FOX Action Movies HD
+https://nonton.site:8443/siingkat/Sp4in2021/99
+#EXTINF:-1,FOX Crime HD
+https://nonton.site:8443/siingkat/Sp4in2021/763
+#EXTINF:-1,FOX Family Movies ID
+https://nonton.site:8443/siingkat/Sp4in2021/14994
+#EXTINF:-1,FOX HD
+https://nonton.site:8443/siingkat/Sp4in2021/95
+#EXTINF:-1,FOX Life HD
+https://nonton.site:8443/siingkat/Sp4in2021/94
+#EXTINF:-1,FOX Movies HD
+https://nonton.site:8443/siingkat/Sp4in2021/98
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ochannel.png" group-title="VIDIO",O Channel 
-https://etslive-2-vidio-com.akamaized.net/exp=1621400418~acl=/hls-p/ingest_206_*/*~hmac=26c80ac999f5d24bfe8038be15e9a8c5757d374410f0876009169bd86d5f32c6/hls-p/ingest_206_720p/index.m3u8 
+Movie + hbo
+#EXTINF:-1,Galaxy Premium SD
+https://nonton.site:8443/siingkat/Sp4in2021/29603
+#EXTINF:-1,Galaxy SD
+https://nonton.site:8443/siingkat/Sp4in2021/29604
+#EXTINF:-1,HBO Family FHD
+https://nonton.site:8443/siingkat/Sp4in2021/30184
+#EXTINF:-1,HBO Family HD
+https://nonton.site:8443/siingkat/Sp4in2021/592
+#EXTINF:-1,HBO Family SD
+https://nonton.site:8443/siingkat/Sp4in2021/26598
+#EXTINF:-1,HBO FHD
+https://nonton.site:8443/siingkat/Sp4in2021/1496
+#EXTINF:-1,HBO HD
+https://nonton.site:8443/siingkat/Sp4in2021/210
+#EXTINF:-1,HBO Hits FHD
+https://nonton.site:8443/siingkat/Sp4in2021/11492
+#EXTINF:-1,HBO Hits HD
+https://nonton.site:8443/siingkat/Sp4in2021/591
+#EXTINF:-1,HBO Hits SD
+https://nonton.site:8443/siingkat/Sp4in2021/26596
+#EXTINF:-1,HBO SD
+https://nonton.site:8443/siingkat/Sp4in2021/26595
+#EXTINF:-1,HBO Signature FHD
+https://nonton.site:8443/siingkat/Sp4in2021/1498
+#EXTINF:-1,HBO Signature HD
+https://nonton.site:8443/siingkat/Sp4in2021/873
+#EXTINF:-1,HBO Signature SD
+https://nonton.site:8443/siingkat/Sp4in2021/26597
+#EXTINF:-1,HITS HD
+https://nonton.site:8443/siingkat/Sp4in2021/1195
+#EXTINF:-1,Hits Movie SD
+https://nonton.site:8443/siingkat/Sp4in2021/957
+#EXTINF:-1,IMC SD
+https://nonton.site:8443/siingkat/Sp4in2021/35484
+#EXTINF:-1,IN: & Picture
+https://nonton.site:8443/siingkat/Sp4in2021/31875
+#EXTINF:-1,IN: &TV HD
+https://nonton.site:8443/siingkat/Sp4in2021/31876
+#EXTINF:-1,KIX HD
+https://nonton.site:8443/siingkat/Sp4in2021/8
+#EXTINF:-1,LifeTime HD
+https://nonton.site:8443/siingkat/Sp4in2021/866
+#EXTINF:-1,Red By HBO HD
+https://nonton.site:8443/siingkat/Sp4in2021/4832
+#EXTINF:-1,Star Chinese Movies HD
+https://nonton.site:8443/siingkat/Sp4in2021/780
+#EXTINF:-1,Star Chinese Movies Legend
+https://nonton.site:8443/siingkat/Sp4in2021/1859
+#EXTINF:-1,Star World
+https://nonton.site:8443/siingkat/Sp4in2021/381
+#EXTINF:-1,Thrill
+https://nonton.site:8443/siingkat/Sp4in2021/4
+#EXTINF:-1,Warner TV ID HD
+https://nonton.site:8443/siingkat/Sp4in2021/1533
+#EXTINF:-1,Zee Bioskop
+https://nonton.site:8443/siingkat/Sp4in2021/7
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ajwatv.png" group-title="VIDIO",AJWA TV 
-https://etslive-2-vidio-com.akamaized.net/exp=1621400419~acl=/hls-p/ingest_7464_*/*~hmac=3b084c7e7227f88edaae2732ed7007bd3dfcf94be3c543347a65b3b729583a6c/hls-p/ingest_7464_720p/index.m3u8 
+Knowledge
+#EXTINF:-1,Animal Planet HD
+https://nonton.site:8443/siingkat/Sp4in2021/358
+#EXTINF:-1,BBC Earth
+https://nonton.site:8443/siingkat/Sp4in2021/385
+#EXTINF:-1,Crime Investigation
+https://nonton.site:8443/siingkat/Sp4in2021/332
+#EXTINF:-1,Da Vinci Learning
+https://nonton.site:8443/siingkat/Sp4in2021/36729
+#EXTINF:-1,Discovery Asia
+https://nonton.site:8443/siingkat/Sp4in2021/779
+#EXTINF:-1,Discovery Channel HD
+https://nonton.site:8443/siingkat/Sp4in2021/165
+#EXTINF:-1,Discovery Science HD
+https://nonton.site:8443/siingkat/Sp4in2021/408
+#EXTINF:-1,Discovery Shed
+https://nonton.site:8443/siingkat/Sp4in2021/333
+#EXTINF:-1,Discovery Turbo
+https://nonton.site:8443/siingkat/Sp4in2021/462
+#EXTINF:-1,History FHD
+https://nonton.site:8443/siingkat/Sp4in2021/8131
+#EXTINF:-1,History HD
+https://nonton.site:8443/siingkat/Sp4in2021/718
+#EXTINF:-1,Lingua Channel
+https://nonton.site:8443/siingkat/Sp4in2021/14944
+#EXTINF:-1,Love Nature 4K
+https://nonton.site:8443/siingkat/Sp4in2021/36767
+#EXTINF:-1,Nat Geo HD
+https://nonton.site:8443/siingkat/Sp4in2021/96
+#EXTINF:-1,Nat Geo People HD
+https://nonton.site:8443/siingkat/Sp4in2021/455
+#EXTINF:-1,Nat Geo Wild HD
+https://nonton.site:8443/siingkat/Sp4in2021/97
+#EXTINF:-1,Ruang Terampil
+https://nonton.site:8443/siingkat/Sp4in2021/36731
+#EXTINF:-1,Smithsonian Channel
+https://nonton.site:8443/siingkat/Sp4in2021/35998
+#EXTINF:-1,TV Edukasi
+https://nonton.site:8443/siingkat/Sp4in2021/36732
 
-#EXTINF:-1 tvg-id="ksa.alqurantv" tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="VIDIO",AlQuran Kareem 
-https://etslive-2-vidio-com.akamaized.net/exp=1621400420~acl=/hls-p/ingest_6852_*/*~hmac=4f862a4648d37615414e35b659c94cdf2e5c66c00aa8fbb351efc22058ce2535/hls-p/ingest_6852_720p/index.m3u8 
+Kids
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kompastv.png" group-title="VIDIO",Kompas TV 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_874_720p/index.m3u8 
+#EXTINF:-1,Animax
+https://nonton.site:8443/siingkat/Sp4in2021/3
+#EXTINF:-1,Aniplus
+https://nonton.site:8443/siingkat/Sp4in2021/2
+#EXTINF:-1,Baby First
+https://nonton.site:8443/siingkat/Sp4in2021/1204
+#EXTINF:-1,Baby TV
+https://nonton.site:8443/siingkat/Sp4in2021/296
+#EXTINF:-1,Boomerang ID
+https://nonton.site:8443/siingkat/Sp4in2021/305
+#EXTINF:-1,Cartoon Network ID HD
+https://nonton.site:8443/siingkat/Sp4in2021/680
+#EXTINF:-1,CBeebies
+https://nonton.site:8443/siingkat/Sp4in2021/491
+#EXTINF:-1,Disney Channel
+https://nonton.site:8443/siingkat/Sp4in2021/306
+#EXTINF:-1,Disney Channel ID
+https://nonton.site:8443/siingkat/Sp4in2021/3479
+#EXTINF:-1,Disney Junior
+https://nonton.site:8443/siingkat/Sp4in2021/213
+#EXTINF:-1,Disney UK
+https://nonton.site:8443/siingkat/Sp4in2021/2336
+#EXTINF:-1,Disney XD
+https://nonton.site:8443/siingkat/Sp4in2021/104
+#EXTINF:-1,Dream Works HD
+https://nonton.site:8443/siingkat/Sp4in2021/32529
+#EXTINF:-1,Duck TV
+https://nonton.site:8443/siingkat/Sp4in2021/1854
+#EXTINF:-1,Dunia Anak
+https://nonton.site:8443/siingkat/Sp4in2021/907
+#EXTINF:-1,Horee
+https://nonton.site:8443/siingkat/Sp4in2021/14106
+#EXTINF:-1,My Kidz
+https://nonton.site:8443/siingkat/Sp4in2021/1483
+#EXTINF:-1,Nick Jr 2
+https://nonton.site:8443/siingkat/Sp4in2021/341
+#EXTINF:-1,Nick Jr ID
+https://nonton.site:8443/siingkat/Sp4in2021/522
+#EXTINF:-1,Nick Toons
+https://nonton.site:8443/siingkat/Sp4in2021/335
+#EXTINF:-1,Nickelodeon ID
+https://nonton.site:8443/siingkat/Sp4in2021/962
+#EXTINF:-1,Toonmax
+https://nonton.site:8443/siingkat/Sp4in2021/1116
+#EXTINF:-1,XingXong
+https://nonton.site:8443/siingkat/Sp4in2021/36764
+#EXTINF:-1,Zoo Moo HD
+https://nonton.site:8443/siingkat/Sp4in2021/14104
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="VIDIO",Berita Satu 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6165_720p/index.m3u8 
+Entertainment + music
+#EXTINF:-1,.idku
+https://nonton.site:8443/siingkat/Sp4in2021/36730
+#EXTINF:-1,AFN HD
+https://nonton.site:8443/siingkat/Sp4in2021/807
+#EXTINF:-1,BBC Lifestyle HD
+https://nonton.site:8443/siingkat/Sp4in2021/36766
+#EXTINF:-1,Blue Ant Entertainment HD
+https://nonton.site:8443/siingkat/Sp4in2021/1506
+#EXTINF:-1,Citra Drama
+https://nonton.site:8443/siingkat/Sp4in2021/905
+#EXTINF:-1,DMAX
+https://nonton.site:8443/siingkat/Sp4in2021/483
+#EXTINF:-1,Eat & Go
+https://nonton.site:8443/siingkat/Sp4in2021/26979
+#EXTINF:-1,Every Good Game
+https://nonton.site:8443/siingkat/Sp4in2021/921
+#EXTINF:-1,Fashion TV
+https://nonton.site:8443/siingkat/Sp4in2021/280
+#EXTINF:-1,HGTV
+https://nonton.site:8443/siingkat/Sp4in2021/537
+#EXTINF:-1,Insert
+https://nonton.site:8443/siingkat/Sp4in2021/1763
+#EXTINF:-1,NHK World Japan
+https://nonton.site:8443/siingkat/Sp4in2021/785
+#EXTINF:-1,TLC English
+https://nonton.site:8443/siingkat/Sp4in2021/351
+#EXTINF:-1,TLC HD
+https://nonton.site:8443/siingkat/Sp4in2021/352
+#EXTINF:-1,TV 5 Monde Asie
+https://nonton.site:8443/siingkat/Sp4in2021/786
+#EXTINF:-1,Waku Waku Japan HD
+https://nonton.site:8443/siingkat/Sp4in2021/717
+#EXTINF:-1,K Drama
+https://nonton.site:8443/siingkat/Sp4in2021/35769
+#EXTINF:-1,K Plus
+https://nonton.site:8443/siingkat/Sp4in2021/18
+#EXTINF:-1,KBS World HD
+https://nonton.site:8443/siingkat/Sp4in2021/15057
+#EXTINF:-1,S GEM HD
+https://nonton.site:8443/siingkat/Sp4in2021/770
+#EXTINF:-1,Sony ONE
+https://nonton.site:8443/siingkat/Sp4in2021/19
+#EXTINF:-1,TVN ID
+https://nonton.site:8443/siingkat/Sp4in2021/767
+#EXTINF:-1,tVN Movies HD
+https://nonton.site:8443/siingkat/Sp4in2021/927
+#EXTINF:-1,Channel V HD
+https://nonton.site:8443/siingkat/Sp4in2021/766
+#EXTINF:-1,Citra Dangdut
+https://nonton.site:8443/siingkat/Sp4in2021/2207
+#EXTINF:-1,i konser
+https://nonton.site:8443/siingkat/Sp4in2021/29594
+#EXTINF:-1,MTV
+https://nonton.site:8443/siingkat/Sp4in2021/281
+#EXTINF:-1,MTV Dance
+https://nonton.site:8443/siingkat/Sp4in2021/288
+#EXTINF:-1,MTV LIVE HD
+https://nonton.site:8443/siingkat/Sp4in2021/9110
+#EXTINF:-1,MTV Music
+https://nonton.site:8443/siingkat/Sp4in2021/286
+#EXTINF:-1,NRJ Hits TV
+https://nonton.site:8443/siingkat/Sp4in2021/29836
+#EXTINF:-1,ONE African TV
+https://nonton.site:8443/siingkat/Sp4in2021/1731
+#EXTINF:-1,Prambors TV
+https://nonton.site:8443/siingkat/Sp4in2021/1157
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="VIDIO",Metro TV 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_777_720p/index.m3u8 
+Religi
 
-#EXTINF:-1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="VIDIO",Trans TV 
-https://etslive-2-vidio-com.akamaized.net/exp=1621400420~acl=/hls-p/ingest_733_*/*~hmac=537c5fdb0df2d4b50c3f24efd83cca2b35e71aeeae64bf577b7cfd8e794546b9/hls-p/ingest_733_720p/index.m3u8 
+#EXTINF:-1,Ahsan TV
+https://nonton.site:8443/siingkat/Sp4in2021/26630
+#EXTINF:-1,Al-Iman TV
+https://nonton.site:8443/siingkat/Sp4in2021/26631
+#EXTINF:-1,Madina TV
+https://nonton.site:8443/siingkat/Sp4in2021/912
+#EXTINF:-1,Makkah TV
+https://nonton.site:8443/siingkat/Sp4in2021/297
+#EXTINF:-1,Reformed 21
+https://nonton.site:8443/siingkat/Sp4in2021/26632
+#EXTINF:-1,Rodja TV
+https://nonton.site:8443/siingkat/Sp4in2021/843
+#EXTINF:-1,TV Mu
+https://nonton.site:8443/siingkat/Sp4in2021/1726
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="VIDIO",RCTI 
-https://etslive-2-vidio-com.akamaized.net/exp=1621400414~acl=/hls-p/ingest_665_*/*~hmac=658c8872331e084a8ee8c93e9d4d930e0b526357509f20b3fb3d4fa448b429ce/hls-p/ingest_665_720p/index.m3u8 
+Sport
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="VIDIO",Trans 7 
-https://etslive-2-vidio-com.akamaized.net/exp=1621400417~acl=/hls-p/ingest_734_*/*~hmac=68c1abddc15c1f5ddc8899bf43c69a9594a7383234b7e3f102fb96e55624372e/hls-p/ingest_734_720p/index.m3u8 
+#EXTINF:-1,BeIN Sport 1 ID
+https://nonton.site:8443/siingkat/Sp4in2021/728
+#EXTINF:-1,BeIN Sport 2 ID
+https://nonton.site:8443/siingkat/Sp4in2021/729
+#EXTINF:-1,Box Nation
+https://nonton.site:8443/siingkat/Sp4in2021/499
+#EXTINF:-1,FIGHT BOX
+https://nonton.site:8443/siingkat/Sp4in2021/501
+#EXTINF:-1,Fight Sports
+https://nonton.site:8443/siingkat/Sp4in2021/784
+#EXTINF:-1,Fox Sports 1 HD
+https://nonton.site:8443/siingkat/Sp4in2021/51
+#EXTINF:-1,Reserved26628
+https://nonton.site:8443/siingkat/Sp4in2021/26628
+#EXTINF:-1,Fox Sports 2 HD
+https://nonton.site:8443/siingkat/Sp4in2021/102
+#EXTINF:-1,Reserved26633
+https://nonton.site:8443/siingkat/Sp4in2021/26633
+#EXTINF:-1,Fox Sports 3 HD
+https://nonton.site:8443/siingkat/Sp4in2021/101
+#EXTINF:-1,Reserved26634
+https://nonton.site:8443/siingkat/Sp4in2021/26634
+#EXTINF:-1,Golf Channel FHD
+https://nonton.site:8443/siingkat/Sp4in2021/561
+#EXTINF:-1,Lax Sports Network
+https://nonton.site:8443/siingkat/Sp4in2021/25212
+#EXTINF:-1,NBA TV HD
+https://nonton.site:8443/siingkat/Sp4in2021/3099
+#EXTINF:-1,NBA TV HD US
+https://nonton.site:8443/siingkat/Sp4in2021/243
+#EXTINF:-1,Ten Golf HD
+https://nonton.site:8443/siingkat/Sp4in2021/224
+#EXTINF:-1,Tennis Channel
+https://nonton.site:8443/siingkat/Sp4in2021/482
+#EXTINF:-1,Tennis Channel 2
+https://nonton.site:8443/siingkat/Sp4in2021/19168
+#EXTINF:-1,UFC FHD
+https://nonton.site:8443/siingkat/Sp4in2021/2401
+#EXTINF:-1,UFC Live Event 1
+https://nonton.site:8443/siingkat/Sp4in2021/36400
+#EXTINF:-1,WWE Network
+https://nonton.site:8443/siingkat/Sp4in2021/299
+#EXTINF:-1,Sky Sport F1
+https://nonton.site:8443/siingkat/Sp4in2021/37328
 
-#EXTINF:-1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="VIDIO",MNCTV 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_870_720p/index.m3u8 
+Drama asia
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="VIDIO",JakTV 
-https://etslive-2-vidio-com.akamaized.net/exp=1621400422~acl=/hls-p/ingest_5415_*/*~hmac=b091ab98524450d948fcf62f6adbe1541780fe935fa55db9009e03030ee5db01/hls-p/ingest_5415_720p/index.m3u8 
+#EXTINF:-1,Chinese Drama
+https://nonton.site:8443/siingkat/Sp4in2021/36733
+#EXTINF:-1,CTI Asia
+https://nonton.site:8443/siingkat/Sp4in2021/29602
+#EXTINF:-1,ETTV Asia
+https://nonton.site:8443/siingkat/Sp4in2021/29597
+#EXTINF:-1,Formosa
+https://nonton.site:8443/siingkat/Sp4in2021/29601
+#EXTINF:-1,Kungfu TV
+https://nonton.site:8443/siingkat/Sp4in2021/29598
+#EXTINF:-1,Reserved.
+https://nonton.site:8443/siingkat/Sp4in2021/29596
+#EXTINF:-1,TVBS News
+https://nonton.site:8443/siingkat/Sp4in2021/29600
+#EXTINF:-1,Zhejiang International
+https://nonton.site:8443/siingkat/Sp4in2021/29595
+#EXTINF:-1,AR: Nile Culture
+https://nonton.site:8443/siingkat/Sp4in2021/2582
+#EXTINF:-1,IN: & Picture HD
+https://nonton.site:8443/siingkat/Sp4in2021/2553
+#EXTINF:-1,IN: B4U Movies
+https://nonton.site:8443/siingkat/Sp4in2021/2557
+#EXTINF:-1,IN: Colors HD
+https://nonton.site:8443/siingkat/Sp4in2021/2548
+#EXTINF:-1,IN: Sony Max HD
+https://nonton.site:8443/siingkat/Sp4in2021/180
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="VIDIO",GTV 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_778_720p/index.m3u8 
+Tv asia
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="VIDIO",NET. 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_875_720p/index.m3u8 
+#EXTINF:-1,IN: SUN Music
+https://nonton.site:8443/siingkat/Sp4in2021/2555
+#EXTINF:-1,IN: Zing TV
+https://nonton.site:8443/siingkat/Sp4in2021/813
+#EXTINF:-1,MY - ASTRO RIA HD
+https://nonton.site:8443/siingkat/Sp4in2021/37332
+#EXTINF:-1,MY - ASTRO PRIMA HD
+https://nonton.site:8443/siingkat/Sp4in2021/37333
+#EXTINF:-1,MY - ASTRO OASIS HD
+https://nonton.site:8443/siingkat/Sp4in2021/37334
+#EXTINF:-1,MY - ASTRO WARNA HD
+https://nonton.site:8443/siingkat/Sp4in2021/37335
+#EXTINF:-1,MY - ASTRO NAURA
+https://nonton.site:8443/siingkat/Sp4in2021/37336
+#EXTINF:-1,MY - TV ALHIJRAH
+https://nonton.site:8443/siingkat/Sp4in2021/37337
+#EXTINF:-1,MY - GO SHOP RUUMA
+https://nonton.site:8443/siingkat/Sp4in2021/37338
+#EXTINF:-1,MY - GO SHOP GAAYA
+https://nonton.site:8443/siingkat/Sp4in2021/37339
+#EXTINF:-1,MY - SUN MUSIC
+https://nonton.site:8443/siingkat/Sp4in2021/37340
+#EXTINF:-1,MY - CHUTTI TV
+https://nonton.site:8443/siingkat/Sp4in2021/37341
+#EXTINF:-1,MY - ADITHYA
+https://nonton.site:8443/siingkat/Sp4in2021/37342
+#EXTINF:-1,MY - ZEE Tamil HD
+https://nonton.site:8443/siingkat/Sp4in2021/37343
+#EXTINF:-1,MY - VINMEEN HD
+https://nonton.site:8443/siingkat/Sp4in2021/37344
+#EXTINF:-1,MY - STAR VIJAY HD
+https://nonton.site:8443/siingkat/Sp4in2021/37345
+#EXTINF:-1,MY - COLORS TAMIL
+https://nonton.site:8443/siingkat/Sp4in2021/37346
+#EXTINF:-1,MY - SUN TV HD
+https://nonton.site:8443/siingkat/Sp4in2021/37347
+#EXTINF:-1,MY - BOLLYONE HD
+https://nonton.site:8443/siingkat/Sp4in2021/37348
+#EXTINF:-1,MY - iQIYI HD
+https://nonton.site:8443/siingkat/Sp4in2021/37349
+#EXTINF:-1,MY - GO SHOP 2
+https://nonton.site:8443/siingkat/Sp4in2021/37350
+#EXTINF:-1,MY - XIAO TAI YANG HD
+https://nonton.site:8443/siingkat/Sp4in2021/37351
+#EXTINF:-1,MY - AEC HD
+https://nonton.site:8443/siingkat/Sp4in2021/37352
+#EXTINF:-1,MY - SHUANG XING HD
+https://nonton.site:8443/siingkat/Sp4in2021/37353
+#EXTINF:-1,MY - QUAN JIA HD
+https://nonton.site:8443/siingkat/Sp4in2021/37354
+#EXTINF:-1,MY - CELESTIAL HD
+https://nonton.site:8443/siingkat/Sp4in2021/37355
+#EXTINF:-1,MY - TVB JADE
+https://nonton.site:8443/siingkat/Sp4in2021/37356
+#EXTINF:-1,MY - AOD 351 HD
+https://nonton.site:8443/siingkat/Sp4in2021/37357
+#EXTINF:-1,MY - CTI ASIA
+https://nonton.site:8443/siingkat/Sp4in2021/37358
+#EXTINF:-1,MY - TVB E-NEWS
+https://nonton.site:8443/siingkat/Sp4in2021/37359
+#EXTINF:-1,MY - TVB XING HE HD
+https://nonton.site:8443/siingkat/Sp4in2021/37360
+#EXTINF:-1,MY - TVBS ASIA HD
+https://nonton.site:8443/siingkat/Sp4in2021/37361
+#EXTINF:-1,MY - CCM
+https://nonton.site:8443/siingkat/Sp4in2021/37362
+#EXTINF:-1,MY - HUA HEE DAI HD
+https://nonton.site:8443/siingkat/Sp4in2021/37363
+#EXTINF:-1,MY - CCTV4 HD
+https://nonton.site:8443/siingkat/Sp4in2021/37364
+#EXTINF:-1,MY - AOD 352 HD
+https://nonton.site:8443/siingkat/Sp4in2021/37365
+#EXTINF:-1,MY - AOD 353 HD
+https://nonton.site:8443/siingkat/Sp4in2021/37366
+#EXTINF:-1,MY - AOD 354 HD
+https://nonton.site:8443/siingkat/Sp4in2021/37367
+#EXTINF:-1,MY - AOD 355 HD
+https://nonton.site:8443/siingkat/Sp4in2021/37368
+#EXTINF:-1,MY - KBS World HD
+https://nonton.site:8443/siingkat/Sp4in2021/37369
+#EXTINF:-1,MY - ONE HD
+https://nonton.site:8443/siingkat/Sp4in2021/37370
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="VIDIO",iNews 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5409_720p/index.m3u8 
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/oshop.png" group-title="VIDIO",O SHop 
-https://etslive-2-vidio-com.akamaized.net/exp=1621400403~acl=/hls-p/ingest_6166_*/*~hmac=c704ede44f4e77d6af1df49963a74e3f01b0b6f6e4b1ff0616706b283155428f/hls-p/ingest_6166_720p/index.m3u8 
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="VIDIO",TVRI 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6441_720p/index.m3u8 
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mytv.png" group-title="VIDIO",MYTV 
-https://etslive-2-vidio-com.akamaized.net/exp=1621400418~acl=/hls-p/ingest_6711_*/*~hmac=b1133c2ee946cc21659b02ba3019ad71cb9b78821200b773e2ccd7a9b5ce6f01/hls-p/ingest_6711_720p/index.m3u8 
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mola.png" group-title="VIDIO", Mola Sports Free 
-https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8 
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="VIDIO",Magna TV 
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8 
-
-#EXTINF:-1 tvg-id="nusantaratv" tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="VIDIO",Nusantara TV 
-https://etslive-2-vidio-com.akamaized.net/exp=1621400424~acl=/hls-p/ingest_7432_*/*~hmac=5de5eae485f46aef06d7cd6187b3c479f2b23191b68c3b46a9769c645d641b2a/hls-p/ingest_7432_720p/index.m3u8 
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="VIDIO",DAAI TV 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6482_720p/index.m3u8 
-
-#EXTINF:-1 tvg-id="dwtv" tvg-logo="http://kamiselaluada.com/img/dw.png" group-title="VIDIO",DW English 
-https://etslive-2-vidio-com.akamaized.net/exp=1621400425~acl=/hls-p/ingest_5075_*/*~hmac=49abef246e3adb15a3f3cd6bfae7e391e3dc36cc8f677d2bdb061d2b6ab4efd0/hls-p/ingest_5075_720p/index.m3u8 
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvedukasi.png" group-title="VIDIO",TV Edukasi 
-https://etslive-2-vidio-com.akamaized.net/exp=1621400426~acl=/hls-p/ingest_6838_*/*~hmac=6da8c6c64e9582cce898ea85ab1ae90c16331b6c1a5f9d3756e4c8d98474aef6/hls-p/ingest_6838_720p/index.m3u8 
-
-#EXTINF:-1 tvg-id="rtv" tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="VIDIO",RTV 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_1561_720p/index.m3u8 
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/seatoday.png" group-title="VIDIO", SEA TODAY 
-https://etslive-2-vidio-com.akamaized.net/exp=1621400426~acl=/hls-p/ingest_7687_*/*~hmac=63c8e56301ade24f459d4be7895ff3e32c0537bc2514b65dee2672b10779d7e5/hls-p/ingest_7687_720p/index.m3u8
-
-Lokal2",Antara TV
-http://home-tv.my.id/RHS/kuncoro.m3u8?channel=usee-antara
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" tvg-id="RIYAN.e490321c865d3c9f18ddb5a0cdee3e79.SHINTA" tvg-name" TRANS TV" group-title="Lokal2", [suryaTV]TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.6434336b1ab635929923b9e1b4f935e8.SHINTA" tvg-name" MNC" group-title="Lokal2", [suryaTV]MNC
-https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.377132de26646d9f3557c55a683169a8.SHINTA" tvg-name" RCTI" group-title="Lokal2",[suryaTV]RCTI
-https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="Lokal2", ANTV_
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165072
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="Lokal2", [suryaTV] ANTV(link2)
-http://51.15.26.210:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165072?token=ShUNAEFcElxEDQxXCl0HAFQCAQYCVQ0AAAVaVVIEUVdSAwFVUA1TUwAaGEZKTREDAFhpWAUVDwgABFNVBU5DFkJSFz5bUBJcRAoWSBtNCgsEFwwAVwUFDgMCWlEATkMTWFNHWxAGBVFVDRZIG1wbEgRHWFANaFFcQFgABxVYDxZdW0lDXVpvAgNVVQpdG1lEUBcaEwhERRsMXxYOW05DAVhDFwBGURJcRAkGVA8bT0QCWkNfFUVMGwwTISUVTkMGSUMAD0FdXwhEAhYQShtPRAhGaUMEREFLU1AOB0VAW0EAFUlDX1VIOQVXWgpcWhcPDltFE1sVBwkGAUFOFQ8ODVhDChNtRFkCRAIWVQ4JVVdDSA==
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dohXYW9xnd4/YH9Q4elHUpI/AAAAAAAAAQA/8mIymRvpRFw0cQs0WMuciLYk1lvmZ3t-wCLcBGAsYHQ/s960/PicsArt_04-21-05.05.21.png" group-title="Lokal2", [suryaTV] ANTV(link3)
-https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/31?token=QhBYV0dYRg4TWVRQVlECVAIEBQAADAABCwZWB1JVUlVcVwlSAwAABwYaSBAQEEJXVQhvWgIbCVYIGBJEElMTPVBWEgwWAVQGAw9QEE9GRFtZABIJVw8BVAgDBAJYAk1ASVtUFA4SVQEJC1wQT0ZVSkAAQl0HVWwBXEJZUgQUWwxMXlwaFl8Ka1VdCVMNABIIFlUSH0RQQBUbDhJhNRY1B1VXW1lZRQpdWlkXW0MtXlZbC1VAD1gRSRtWWUUTVxUHGwgSBwUDUBYdGgddFgpEQE1HChEvfRFJG1FIRQRYEgtWXBIMFkQXFh0aDUE8FlVBQBdVUgtcQUcDFgATTRQMA0FtU1laXgFXRVELXBBGChAGRxwRC1ZdDE1bQm4RXwVAAxABAwEEXRZM
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6J9ZhPcm2bkBAxRHFFujiFjCDl0=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/25a886.png" tvg-id="RIYAN.0a3eb3e2847f22d0cf4185db8b28141e.SHINTA" tvg-name" Trans7" group-title="Lokal2", [suryaTV]Trans7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.91a2c220139c5ca35e08120ac6e70b91.SHINTA" tvg-name" GTV" group-title="Lokal2", [suryaTV]GTV
-https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s_QkQLWl7HHckGEdTP0SLF263Dc=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/f088c8.png" tvg-id="RIYAN.29e03c8800185dc398d8a2f84ba56b34.SHINTA" tvg-name" NET TV" group-title="Lokal2", [suryaTV]NET TV
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_875_720p/index.m3u8 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tuFUh0h-gokL4Xi8SIpwAypv8dY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/a4981b.png" tvg-id="RIYAN.57325b9c40a29f996cce680b48d8df14.SHINTA" tvg-name" RTV" group-title="Lokal2", [suryaTV]RTV
-http://210.210.155.35:80/session/9d1b640c-2ed9-11eb-a7a0-c81f66f89318/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Lokal2", [suryaTV]TVONE 
-http://210.210.155.35/qwr9ew/s/s105/02.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Lokal2", [suryaTV]TVONE 2
-http://rr2.dens.tv/s/s105/index2.m3u8
- #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nasatv.png" group-title="Lokal2", [suryaTV]NASA TV 
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="Lokal2", [suryaTV]Magna TV 
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8 
-
-___________MOVIE________
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies", Galaxy 
-https://radenroro.net/RHS/homempd.php?channel=galaxy 
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movies",Galaxy Premium SD
-https://cdn11jtedge.useetv.com/dass/133/galaxy_dash/manifest_wuseetv.mpd?encp=TEHkxQumrTPh-mQ3pBbW6A&amp;uid=MjMwZmE1MjM2MGQwZDEyMDY5Yzk5ZGU5NjgwZDdiYmU=&amp;expp=1621098288
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="Movies",Galaxy Premium  
-https://radenroro.net/RHS/homempd.php?channel=galaxypremium 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="Movies", CALESTIAL movie
-https://sin1.securepath.site:443/Alifathaya/e99MqfUxic/5?token=QhBYV0dYRg4TWQcEUgYBAFdUVAtTCVBTCVAHBFkFBFoKBlZVBghUVwcaSBAQEEJXVQhvWgIbCVAVFkVCBEQ+C10QChQFAFUFBgxGHkEQWV9RRwoCUAsCVA0BBABTGkMSUFYSDBYFXQ0EGkgQBhxEV0YLUV85XVYTUFdVE1tYFA5VHhJZWm8AUVxZClZBXhICFkkSWhVJEV8bZGQRNVMNB1JdXUNaWQ9VQlFEew0AX1xRFllSRBURB1BAQlAVU0NYGwsDARYcRldeTQpGER0SCBYsdBFKG1YdTVFeQghZD0ADEERFFhxGXUJnFlcQEEJXVQhVQUQDEVUbGBJcAE4+AVZcXlNXRA1bX0tGCEFWEh4WCF9dD01cF2ZEWVVDDENQAQsHARZN 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="Movies", CALESTIAL movie2
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/hits.png" group-title="Movies", HITS 
-https://nonton.site:8443/6894864475/7163819284/1195
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xjXVBgk/20210504-053009.png"group-title="Movies",FoxMovies
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fSjz0Bp/20210504-053351.png"group-title="Movies",Foxlife
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ByJV6PM/20210504-053115.png"group-title="Movies",FoxFamilyMovie
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Fox HD
-http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Fox Crime
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-___
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Movie2", ZBioskop 
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6399_720p/index.m3u8 
-#EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO+ 
-http://51.222.105.5:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
-#EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO(HD)
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8 
-#EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO(ID)
-http://zalogi.xyz/cust/serZALogi.m3u
-#EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbo.png", HBO(malaysia)
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbosig.png", HBO Signature  
-https://radenroro.net/RHS/vplus.mpd?channel=HBOSignature2 
-
-#EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_signature_small.gif" group-title="Movie2", HBO SIGNATURE(MAY)
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movie2", HBO HITS (asia)
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8 
-
-#EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbohits.png", HBO Hits 2
-https://hboasialive.akamaized.net/hls/live/2020211/HITS/index.m3u8?hdnts=exp=1620028812~hmac=02adc4cf43f83d1dd32b20fb8b545d620799717d734ec0306880ca80456d1d58&c3.ri=6891924672610400589
-
-#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movie2",Thrill(usee)
-https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/4?token=QhBYV0dYRg4TDVNQUVcBAQRcUVAHAQNWAFZRB1dQBVIJBlFSUQAHAVAaSBAQEEJXVQhvWgIbCVEVFkVCBEQ+C10QChQFAFYGBgxGHkEQWV9RRwoCUAsCVg0GAAZXGkMSUFYSDBYBVAEIC1MQT0ZVSkAAQl0HVWwBXEJZUgQUWwxMXlwaFl8Ka1VdCVMNABIIFlUSH0RQQBUbDhJhNRhBNnx+e3l5EC16dXcqdzAtcRAYR1JaEktSEVwWChNYBFVAFRBTWUFeEEZIGl4QKiASHhYASEcDV0AMVloSC0NCEkAVEFlFa0IBR0VKAVMOAUIQDkcAEUobXgRBa1NeD1gEAU1bX1hHEl4WAxpIEA4LXltACkJsFlBXRwMWBgNSDlNARA== 
-#EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/hbofamily.png", HBO Family 
-https://hboasialive.akamaized.net/hls/live/2020210/FAMILY/index.m3u8?hdnts=exp=1620028814~hmac=d842a59b6e086f219a17377cff3d8f194eac817591f772f25cdd727ad90a61d2&c3.ri=6891924672610400735 
-#EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/cinemax.png", CINEMAX 
-https://hboasialive.akamaized.net/hls/live/2020213/MAX/index.m3u8?hdnts=exp=1620028816~hmac=ec5900c4ee054871d4c7782b65102b0e77c5c9d9c50da6f1a6e6627120a8789b&c3.ri=6918946270374623788 
-#EXTINF:-1 tvg-id="CineMax.id" tvg-name="Cinemax ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="Movie2",Cinemax ID
-https://cgk1.securepath.site:443/Alifathaya/e99MqfUxic/30185?token=QhBYV0dYRg4TCFMBVFMGUVZTBgpUAFVRDVZRVFICA1cMU1NVAQcABwEaSBAQEEJXVQhvWgIbCVYJBQgETRQUEVxAb19QEl4WAAhVA1RQEh4WEVleAxsJVA8GAQBVA1VUCx4SRl1URg4TCVUDUVEHEBhHVUsSXEELWFhvVQRACAFcEApYQVwIGBNXCm0HAV1TWgESCUQJEUkbXUNBQwxDMm0SZFNYVQ9bXE0KWwgFQ1sULF5XCVdWFlBVEh1DVAgWS1NEUxYKRgYIClEQT0ZTXUELREEfGwlHcHASHUNTGRZcXENfW15GDhNMFxBPRllBaxdVQBJLVgRUUUITWxRRQBUQXVdMbwdbX1YBURcNX1xHRwoRVBsfR1RbXlgVWRM9SVtUFA4SVQYIDl0HQRk=
-#EXTINF:-1 tvg-id="redbyhbo" group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/redhbo.png", RED by HBO 
-https://hboasialive.akamaized.net/hls/live/2020214/RED/index.m3u8?hdnts=exp=1620028817~hmac=6533070bc7d980ba08cba95e2f96599a77e9963b5d028ae3f542557a229c7384&c3.ri=6912190859605422542 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Movie2", Flik https://radenroro.net/RHS/homempd.php?channel=flik 
-#EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/flix.png", &Flix 
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/prive.png", &Prive 
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/fox.png",FOX (VN) 
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8 
-#EXTINF:-1 tvg-id="foxlife" group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/foxlife.png",FOX LIFE (VN) 
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8 
-#EXTINF:-1 tvg-id="foxmovies" group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/foxmovies.png",FOX Movies (VN) 
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8 
-#EXTINF:-1 tvg-id="foxfamilymovies" group-title="Movie2" tvg-logo="http://kamiselaluada.com/img/foxfamilymovies.png",FOX FAMILY Movies (VN) 
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8 
-
-_______kids_____
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Kids",Animax
-https://cgk1.securepath.site:443/Athayamanja/SHFTZRKFrF/3?token=QhBYV0dYRg4TDlwCUAYJAABRAwsFX1JdXVAAUlcHUgcPAgkCBwZdUQMaSBAQEEJXVQhvWgIbCVYVFkVCBEQ+C10QChQFAFcFBgFGHkEQWV9RRwoCUAsCVw8EBANXGkMSUFYSDBYBVg0JDVQQT0ZVSkAAQl0HVWwBXEJZUgQUWwxMXlwaFl8Ka1VdCVMNABIIFlUSH0RQQBUbDhJhNRhBNnx+e3l5EC16dXcqdzAtcRAYR1JaEktSEVwWChNYBVNAFRBTWUFeEEZIGl4QKiASHhYASEcDV0AMVloSC0NCEkAVEFlFa0IBR0VKAVMOAUIQDkcAEUobXgRBa1NeD1gEAU1bX1hHEl4WAxpIEA4LXltACkJsFlBXRwMWBgJQAllARA==
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Kids",Animax2
-https://cgk1.securepath.site:443/6894864475/7163819284/3?token=QhBYV0dYRg4TClABAlUJAg0HAwQDDwMBXVADAQIDUAYAAQQEUlFUAAMaSBAQEEJXVQhvWgIbCVYVFkVCBEQ+C10QChQFAFwAAgpGHkEQWV9RRwoCUAsCVg0AAQNYGkMSUFYSDBYBVA0HCVIQT0ZVSkAAQl0HVWwBXEJZUgQUWwxMXlwaFl8Ka1VdCVMNABIIFlUSH0RQQBUbDhJhNRhBNnx+e3l5EC16dXcqdzAtcRAYR1JaEktSEVwWChNYBFhAFRBTWUFeEEZIGl4QKiASHhYASEcDV0AMVloSC0NCEkAVEFlFa0IBR0VKAVMOAUIQDkcAEUobXgRBa1NeD1gEAU1bX1hHEl4WABpIEA4LXltACkJsFlBXRwMWBgJQAllARA==
-#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Kids",Aniplus 
-https://cgk1.securepath.site:443/6894864475/7163819284/2?token=QhBYV0dYRg4TWgZTWgYFBgYHU1UEDgdWDwIHVVYOVlFfVwJTBlMGDQMaSBAQEEJXVQhvWgIbCVcVFkVCBEQ+C10QChQFAFwAAgpGHkEQWV9RRwoCUAsCVg0AAQdTGkMSUFYSDBYJUQcGCkYeQQFIRlEXXlIKZlcAT11TVEMMDxdVXhwUW147UFRVBVwHRgoQBEccEQ9KQ0cDFmBlTxY1J3V5f3sUeSpwfnYhYSolEh4WB1lHFFhHABsOEgBQBFhAFRBTWUFeEEZIGl4QKiASHhYASEcDV0AMVloSC0NCEkAVEFlFa0IBR0VKAVMOAUIQDkcAEUobXgRBa1NeD1gEAU1bX1hHEl4WABpIEA4LXltACkJsFlBXRwMWBgJSB1RARA==
-#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="Kids",Aniplus2
-https://nonton.site:8443/6894864475/7163819284/2 
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids",Baby First
-https://cgk1.securepath.site:443/6894864475/7163819284/1204?token=QhBYV0dYRg4TAQZQVlZVA1FdCFZXDVZVWgwHUFFTAgBdC1QPVgcAVwUaSBAQEEJXVQhvWgIbCVQLBAQdQ0MSB0ttWVIWCkYFAQBQAVFGHBBADF1WRAMCUwsFAwVVB1lbFRBAX1ASXhYACVYLWlMSHhYASEcDS10EVWtUVBdfAgcbCF5DWFxIFl5WO1YGCVFcUEcKEVYbH0dQR0ATWxQxNhcSZHN4eyt5EXEqdiwqdWF9JBIfRFtaEUtVRFRDDENVAQMSGhZTC0FfTBZLQV4Se3BHHBEDQUcAV0dZXg8UW0BNQRIaFlkXa0NdF0YRAVFfURcSCUQJEUkbWVFJPlUODFdXU0JdXwpHEwJGA0FIEl9bC1lHCUtsFVBQEgtDAFJTAAcSSw==
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids",Baby First2
-https://nonton.site:8443/6894864475/7163819284/1204
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="Kids",Baby TV
-https://nonton.site:8443/6894864475/7163819284/296
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids",Boomerang ID
-http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Kids",Cartoon Network ID HD
-https://cgk1.securepath.site:443/Alifathaya/e99MqfUxic/680?token=QhBYV0dYRg4TCwYLBQdRClBcBQtSDVBXWFACBQRUBwRcBFMHAFNRAVUaSBAQEEJXVQhvWgIbCVMBBBwTFEUEEGZbVBQOElUEAAlTBkFIEkZdCFURXAgFVwgGBgFYAlFOG0JZUhYKRgUDAFwKUkYcEFEdRFYUV1IJZlBVRwhVBEADXEVaWBxGW19nAFcOBV5WFl8SA0QVEQxKRBILQ2Y1TBlmdXp/fykUeHYgfS0hY3t1RxwRBFBHF1hAVRNbFFhbCxAcFFdfEVpFSh0QWUZ5dhZJElYeTVYLSl1fX0MMQxZKEBwUXUM7RlRLEEAGBV1XRkcKEVYbH0dUVUhuAlkPDFxRRF9bXhcWCxpWEE9GXV1aDERcFGZDDF0WChNXBVFTDxBN
-#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Kids",Cartoon Network ID HD2
-https://nonton.site:8443/6894864475/7163819284/680
-#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="Kids",CBeebies
-https://nonton.site:8443/6894864475/7163819284/491
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel
-https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/3479?token=QhBYV0dYRg4TCwdRAFEFBAZWVQpQXAdQCQYJBFFQUwFcC1EAVQhSBwYaSBAQEEJXVQhvWgIbCVYNAwkdQ0MSB0ttWVIWCkYFAQpWBVdGHBBADF1WRAMCUwsFAgdQBVBaFRBAX1ASXhYAC1QCUl0SHhYASEcDS10EVWtUVBdfAgcbCF5DWFxIFl5WO1YGCVFcUEcKEVYbH0dQR0ATWxQxNhcSZHN4eyt5EXEqdiwqdWF9JBIfRFtaEUtVRFRDDENTCwcEFBgSB1tEVhBAGkYKEH0hEh9EXEsRXFpDWA5YQ1gbRkMUGBINR25KAUEXFlVTWQBCEVwbA0cVFl1QGWkCDVdcVVVAWQtaQhpeEFFGHBBZCl5aElZBOkldVBNbFFdRCQIIFEk=
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel ID" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel ID
-https://nonton.site:8443/6894864475/7163819284/3479
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior
-https://nonton.site:8443/6894864475/7163819284/213
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior(link2)
-https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/213?token=QhBYV0dYRg4TXlJUBQUEBAMEUQUEDlVQAAFRBwNVUgdYCgYAUFNdUQMaSBAQEEJXVQhvWgIbCVcIBxwTFEUEEGZbVBQOElUEAwpTBkFIEkZdCFURXAgFVwgHBANQA1lOG0JZUhYKRgUBClEFQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgoTMWJPQm13fH17fUR9f3wrfCY3eXMWSRJRD01BBE1REgtDDlJaGx4SVVtFCkBDQUYIQS10EBhHVUsSXF0WUFteE1sUFREbHhJfR28WUUJMFlcCCVVAFl8SA0QVEQhYTG9SDlgPB1pGWVlaQ0YOEwpGHkEJX1xdEV9BOUlaARsOEgBRBlBWG08=
-#EXTINF:-1 tvg-id="" tvg-name="Disney UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="Kids",Disney UK
-https://nonton.site:8443/6894864475/7163819284/2336
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD
-https://nonton.site:8443/6894864475/7163819284/104
-#EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="" group-title="Kids",Dream Works HD
-https://cgk1.securepath.site:443/Alifathaya/e99MqfUxic/32529?token=QhBYV0dYRg4TD1dUV1VSBlUHBwBUCgdQDVZWCFcBVwEJV1MHAVFcBFUaSBAQEEJXVQhvWgIbCVYLAQIITRQUEVxAb19QEl4WAAhVA1RQEh4WEVleAxsJVA8GAQNXB1JXDB4SRl1URg4TCVYLWlwCEBhHVUsSXEELWFhvVQRACAFcEApYQVwIGBNXCm0HAV1TWgESCUQJEUkbXUNBQwxDMm0cEGJxfC97fBgtfCcrfndnLHERShtRDE1GUUUEFFtACAEGBBYcRldeTQpGER0SCBYsdBFKG1YdTVFeQghZD0ADEERFFhxGXUJnFlcQEEJXVQhVQUQDEVUbGBJcAE4+AVZcXlNXRA1bX0tGCEFWEh4WCF9dD01cF2ZEWVVDDENUCgYFBxZN
-#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="Kids",Duck TV
-https://nonton.site:8443/6894864475/7163819284/1854
-#EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="Kids",Dunia Anak
-https://nonton.site:8443/6894864475/7163819284/907
-#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="Kids",Horee
-https://nonton.site:8443/6894864475/7163819284/14106
-#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="" group-title="Kids",My Kidz
-https://nonton.site:8443/6894864475/7163819284/1483
-#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="Kids",Nick Jr 2
-https://cgk1.securepath.site:443/Alifathaya/e99MqfUxic/522?token=QhBYV0dYRg4TWQYLBlwHClFcCAFUWgYDCwMJVAdVVwdYAAEHAFJRUVUaSBAQEEJXVQhvWgIbCVALBhwTFEUEEGZbVBQOElUEAAlTBkFIEkZdCFURXAgFVwgHBANYBlJOG0JZUhYKRgwIAF0EQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgoTMWJPQm13fH17fUR9f3wrfCY3eXMWSRJRD01BBE1REgtDB1BaDBAcFFdfEVpFSh0QWUZ5dhZJElYeTVYLSl1fX0MMQxZKEBwUXUM7RlRLEEAGBV1XRkcKEVYbH0dUVUhuAlkPDFxRRF9bXhcWCxpWEE9GXV1aDERcFGZDDF0WChNXBVFQDRBN
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids",Nick Jr ID
-https://nonton.site:8443/6894864475/7163819284/522
-#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nick Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" group-title="Kids",Nick Toons
-https://nonton.site:8443/6894864475/7163819284/335
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon ID
-https://nonton.site:8443/6894864475/7163819284/962
-#EXTINF:-1 tvg-id="" tvg-name="Toonmax" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="Kids",Toonmax
-https://nonton.site:8443/6894864475/7163819284/1116
-#EXTINF:-1 tvg-id="" tvg-name="XingXong" tvg-logo="" group-title="Kids",XingXong
-https://nonton.site:8443/6894864475/7163819284/36764
-#EXTINF:-1 tvg-id="" tvg-name="Zoo Moo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="Kids",Zoo Moo HD
-https://nonton.site:8443/6894864475/7163819284/14104
- 
-____Knowledge____
- 
-#EXTINF:-1  group-title="Knowledge",DIGIONE MAXstream
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
-#EXTINF:-1  group-title="Knowledge", Bisnet Adventure 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge", Bisnet Lifestyle
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273840
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", ANIMAL PLANET
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162514
-#EXTINF:-1  group-title="Knowledge",Animal Planet HD
-https://nonton.site:8443/6894864475/7163819284/358 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/history.png" group-title="Knowledge", History 
-http://iptvtree.net:8080/test-220471/4008/162519
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic
-http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic (V)
-http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="Knowledge", Nat Geo People 
-http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild 
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild (V)
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/discoverychannel.png" group-title="Knowledge",Discovery Asia (V)
-http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Asia
-http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157597
-
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/crimeinvestigation.png" group-title="Knowledge", Crime Investigation 
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165052
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/crimeinvestigation.png" group-title="Knowledge", Crime Investigation(2) 
-http://radenroro.net/RHS/kuncoro.m3u8?channel=usee-crimeinvestigation
-
-#EXTINF:-1 group-title="Knowledge",Eat & Go
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264765
-
-#EXTINF:-1 group-title="Knowledge",Asian Food Network (V)
-http://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="Knowledge",CGTN DOCUMENTARY 
-http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 group-title="Knowledge",HGTV
-http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/19
-#EXTINF:-1 group-title="Knowledge",TLC
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", TLC
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165086 
-#EXTINF:-1 group-title="Knowledge",Outdoor Channel
-http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="khusus SPORT GESERðŸ‘‰"
-
-#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",ART Sport 1 HD
-http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16944?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",ART Sport 2 HD
-http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16945?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",ART Sport 3 HD
-http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16946?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",K Sport 1
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/2187?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",K Sport 2
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/2186?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Art Sport
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/2183?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",K Sport 3
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/2185?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",K Sport 4
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/2184?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 1
-http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16947?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 1 HD
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/2202?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 2
-http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16948?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 2 HD
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/2201?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 3
-http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16949?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 3 HD
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/2200?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 4
-http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16950?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="AL" tvg-logo="" group-title="ALLSport",Super Sport 5
-http://vip.ayhaniptv.com:8080/xFI02iPN9q/iUaHmr8qY5/16951?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="BG" tvg-logo="" group-title="ALLSport",MAX SPORT 1 HD
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/24419?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="BG" tvg-logo="" group-title="ALLSport",MAX SPORT 2 HD
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/24420?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="BG" tvg-logo="" group-title="ALLSport",MAX SPORT 3 HD
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/24421?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="BG" tvg-logo="" group-title="ALLSport",MAX SPORT 4 HD
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/28407?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="PL" tvg-logo="" group-title="ALLSport",ELEVENSPORT 1 HD
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/23782?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="PL" tvg-logo="" group-title="ALLSport",ELEVENSPORT 2 HD
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/23783?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="PL" tvg-logo="" group-title="ALLSport",ELEVENSPORT 3 HD
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/23784?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="PL" tvg-logo="" group-title="ALLSport",Eleven Sports FHD
-http://vigilantev.net:80/nightmare/nightmare/216051?checkedby:SuryaTV
-#EXTINF:-1 tvg-country="PL" tvg-logo="" group-title="ALLSport",ELEVENSPORT 4 HD
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/23785?checkedby:SuryaTV
-
-#EXTINF:-1 tvg-country="UN" tvg-logo="https://i.imgur.com/FgyiahB.png" group-title="Sport",SPORT : BeIN Sports Xtra,SPORT | BeIN Sports Xtra
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORT 1 (480p)
-http://vigilantev.net:80/nightmare/nightmare/171630?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 3 HD
-http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51917?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 4 HD
-http://vigilantev.net:80/nightmare/nightmare/171632?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 4 HD
-http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51918?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS MAX 1 HD
-http://vigilantev.net:80/nightmare/nightmare/171629?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS MAX 1 HD TR
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/1798?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS SD 2
-http://vigilantev.net:80/nightmare/nightmare/171635?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS SD 3
-http://vigilantev.net:80/nightmare/nightmare/171633?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS SD 4
-http://vigilantev.net:80/nightmare/nightmare/171631?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 1
-http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25741?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 2
-http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25740?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 3
-http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25739?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",Bein Sport 4
-http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25738?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-country="UN" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport",beIN Sports 1 Asia
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="GR" tvg-logo="" group-title="beinSport",BeIN Sports MAX 8
-http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/136816?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="NL" tvg-logo="" group-title="beinSport",BEIN SPORTS USA ENGLISH HD
-http://miarea.vip:8080/nena/nena/62822?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 1 HD
-http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/51915?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="beinSport",BEIN SPORTS 2 HD
-http://vigilantev.net:80/nightmare/nightmare/171636?checkedby:iptvcat.com
-
-
-____BT SPORT___
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="suryaTV@BTsport",BT sport1 
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="suryaTV@BTsport",BT sport2 
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-
-__ss sport__
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="supersport",supersport1 
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="supersport",supersport2 
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="supersport",supersport3 
-http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="supersport",supersport4 
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-
-_____premier sport____
-
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true1.png" group-title="Sports premier", True Premier 1 
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true2.png" group-title="Sports premier", True Premier 2 
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true3.png" group-title="Sports premier", True Premier 3 
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true4.png" group-title="Sports premier", True Premier 4 
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true5.png" group-title="Sports premier", True Premier 5 
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
-
-_______skysport____
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4incsYE8XFQ/YH7TCJir6sI/AAAAAAAAAPw/E6h3mexgcqovp0RToL4fzt6R0zNThtNewCLcBGAsY
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4incsYE8XFQ/YH7TCJir6sI/AAAAAAAAAPw/E6h3mexgcqovp0RToL4fzt6R0zNThtNewCLcBGAsYHQ/s0/20201001_130417.png" group-title="skyNET",Skynetsport HD
-https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4incsYE8XFQ/YH7TCJir6sI/AAAAAAAAAPw/E6h3mexgcqovp0RToL4fzt6R0zNThtNewCLcBGAsYHQ/s0/20201001_130417.png" group-title="skyNET",Skynetsport 1
-http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4incsYE8XFQ/YH7TCJir6sI/AAAAAAAAAPw/E6h3mexgcqovp0RToL4fzt6R0zNThtNewCLcBGAsYHQ/s0/20201001_130417.png" group-title="skyNET",Skynetsport 2
-http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4incsYE8XFQ/YH7TCJir6sI/AAAAAAAAAPw/E6h3mexgcqovp0RToL4fzt6R0zNThtNewCLcBGAsYHQ/s0/20201001_130417.png" group-title="skyNET",Skynetsport 3
-http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4incsYE8XFQ/YH7TCJir6sI/AAAAAAAAAPw/E6h3mexgcqovp0RToL4fzt6R0zNThtNewCLcBGAsYHQ/s0/20201001_130417.png" group-title="skyNET",Skynetsport 4
-http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4incsYE8XFQ/YH7TCJir6sI/AAAAAAAAAPw/E6h3mexgcqovp0RToL4fzt6R0zNThtNewCLcBGAsYHQ/s0/20201001_130417.png" group-title="skyNET",Skynetsport 5
-http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4incsYE8XFQ/YH7TCJir6sI/AAAAAAAAAPw/E6h3mexgcqovp0RToL4fzt6R0zNThtNewCLcBGAsYHQ/s0/20201001_130417.png" group-title="skyNET",Skynetsport 6
-https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
-
-____arena_sport_____
-
-#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="...ARENA SPORT 1 HR" tvg-logo="http://23.237.68.58/logo/aa/arena_sport_hr_1.png" group-title="suryaTV@arenaSPORTS",ARENA SPORT 1 HR
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12319
-#EXTINF:-1 tvg-id="ArenaSport2.hr" tvg-name="...ARENA SPORT 2 HR" tvg-logo="http://23.237.68.58/logo/aa/arena_sport_hr_2.png" group-title="suryaTV@arenaSPORTS",ARENA SPORT 2 HR
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12317
-#EXTINF:-1 tvg-id="ArenaSport3.hr" tvg-name="...ARENA SPORT 3 HR" tvg-logo="http://23.237.68.58/logo/aa/arena_sport_rs_3.png" group-title="suryaTV@arenaSPORTS",ARENA SPORT 3 HR
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12315
-#EXTINF:-1 tvg-id="ArenaSport4.hr" tvg-name="...ARENA SPORT 4 HR" tvg-logo="http://23.237.68.58/logo/aa/arena_sport_rs_4.png" group-title="suryaTV@arenaSPORTS",ARENA SPORT 4 HR
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12313
-#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="...ARENA SPORT 5 HR" tvg-logo="http://23.237.68.58/logo/aa/arena_sport_hr_5.png" group-title="suryaTV@arenaSPORTS",ARENA SPORT 5 HR
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12311
-#EXTINF:-1 tvg-id="ArenaSport1.cz" tvg-name="...ARENA SPORT 1 SRB" tvg-logo="http://23.237.68.58/logo/aa/arena_sport_rs_1.png" group-title="suryaTV@arenaSPORTS",ARENA SPORT 1 SRB
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12318
-#EXTINF:-1 tvg-id="ArenaSport2.cz" tvg-name="...ARENA SPORT 2 SRB" tvg-logo="http://23.237.68.58/logo/aa/arena_sport_hr_2.png" group-title="suryaTV@arenaSPORTS",ARENA SPORT 2 SRB
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12316
-#EXTINF:-1 tvg-id="ArenaSport4.hr" tvg-name="...ARENA SPORT 4 SRB" tvg-logo="http://23.237.68.58/logo/aa/arena_sport_rs_4.png" group-title="suryaTV@arenaSPORTS",ARENA SPORT 4 SRB
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12312
-#EXTINF:-1 tvg-id="Arenasport5.rs" tvg-name="...ARENA SPORT 5 SRB" tvg-logo="http://23.237.68.58/logo/aa/arena_sport_hr_5.png" group-title="suryaTV@arenaSPORTS",ARENA SPORT 5 SRB
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/12310
- 
-______sport tv____
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORT TV",SportTv1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORT TV",SportTv2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORT TV",SportTv3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORT TV",SportTv4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORT TV",SportTv5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-
-___tv china___
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="tv china",CCTV3 
-http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="tv china",CCTV4 
-http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="tv china",CCTV5 
-http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="tv china",CCTV6 
-http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="tv china",CCTV7 
-http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="tv china",CCTV8 
-http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="tv china",CCTV8 
-http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="tv china",CCTV10 
-http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="tv china",CCTV11 
-http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="tv china",CCTV12 
-http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="tv china",CCTV13 
-http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="tv china",CCTV14
-http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="tv china",CCTV15 
-http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8 
-
-_________malaysia
- 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/tv1.png", TV1 
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8                       
- 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/tv2.png", TV2 
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8                       
- 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/rtmokey.png", OKEY 
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
- 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/bes.png",Berita RTM 
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/index.m3u8   
- 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/rtmsports.png", RTM Sports 
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8      
- 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="http://kamiselaluada.com/img/awani.png", Astro Awani 
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
-# serial #
-
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64eiLFqydlGXYF0A4IQKMddUhlb.jpg" group-title="Series Korea",Orange Marmalade S01 E01
-https://nonton.site:8443/series/Akhbar/Fadilah/16764.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWHgZc5zlMnDyWQzSMcqMYg16Fu.jpg" group-title="Series Korea",Orange Marmalade S01 E02
-https://nonton.site:8443/series/Akhbar/Fadilah/16765.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUJWCnhpi4XyERJZPGmelDDtKLY.jpg" group-title="Series Korea",Orange Marmalade S01 E03
-https://nonton.site:8443/series/Akhbar/Fadilah/16766.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSXyA9z55fUn1LSfCDKeuEVXFQv.jpg" group-title="Series Korea",Orange Marmalade S01 E04
-https://nonton.site:8443/series/Akhbar/Fadilah/16767.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWTA5f5OeJ6HqE6HxFnafnRtagH.jpg" group-title="Series Korea",Orange Marmalade S01 E05
-https://nonton.site:8443/series/Akhbar/Fadilah/16768.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1f5lk1i4CDGpD6J5VDMUlyZumR.jpg" group-title="Series Korea",Orange Marmalade S01 E06
-https://nonton.site:8443/series/Akhbar/Fadilah/16769.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWo7yyCus0yTZcw6uKYFUVRqeLt.jpg" group-title="Series Korea",Orange Marmalade S01 E07
-https://nonton.site:8443/series/Akhbar/Fadilah/16770.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/loXT3Yq661lsMXK6xkOOBc8N181.jpg" group-title="Series Korea",Orange Marmalade S01 E08
-https://nonton.site:8443/series/Akhbar/Fadilah/16771.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4y59CKPFxdz51BN3K4SeeO5Ift0.jpg" group-title="Series Korea",Orange Marmalade S01 E09
-https://nonton.site:8443/series/Akhbar/Fadilah/16772.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4y59CKPFxdz51BN3K4SeeO5Ift0.jpg" group-title="Series Korea",Orange Marmalade S01 E10
-https://nonton.site:8443/series/Akhbar/Fadilah/16773.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4y59CKPFxdz51BN3K4SeeO5Ift0.jpg" group-title="Series Korea",Orange Marmalade S01 E11
-https://nonton.site:8443/series/Akhbar/Fadilah/16774.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orange Marmalade S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4y59CKPFxdz51BN3K4SeeO5Ift0.jpg" group-title="Series Korea",Orange Marmalade S01 E12
-https://nonton.site:8443/series/Akhbar/Fadilah/16775.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sg3dk2MC8rHSSudVp6Vhc4EraS.jpg" group-title="Series Korea",Chief of Staff S01 E01
-https://nonton.site:8443/series/Akhbar/Fadilah/17019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqdXwwIpzAAJaklzawFP1aPaizq.jpg" group-title="Series Korea",Chief of Staff S01 E02
-https://nonton.site:8443/series/Akhbar/Fadilah/17020.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4TuIVZDnMRJ4ewFVxB1q2mWxJ8.jpg" group-title="Series Korea",Chief of Staff S01 E03
-https://nonton.site:8443/series/Akhbar/Fadilah/17021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1B9i1JAdVZWUYTcBEyy5drI5er.jpg" group-title="Series Korea",Chief of Staff S01 E04
-https://nonton.site:8443/series/Akhbar/Fadilah/17022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvrAh4O8S0WME13EWoY7HN115Mw.jpg" group-title="Series Korea",Chief of Staff S01 E05
-https://nonton.site:8443/series/Akhbar/Fadilah/17023.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ehX6cNf3melCifatxYkkuaFOpIR.jpg" group-title="Series Korea",Chief of Staff S01 E06
-https://nonton.site:8443/series/Akhbar/Fadilah/17024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eN4pEKRdt123C9CwFdJz1zy3Thl.jpg" group-title="Series Korea",Chief of Staff S01 E07
-https://nonton.site:8443/series/Akhbar/Fadilah/17025.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6L769smseYr1J86zdlk76vlOEwS.jpg" group-title="Series Korea",Chief of Staff S01 E08
-https://nonton.site:8443/series/Akhbar/Fadilah/17026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euO0W7zobgVvYXNtEmxjwdaGUGl.jpg" group-title="Series Korea",Chief of Staff S01 E09
-https://nonton.site:8443/series/Akhbar/Fadilah/17027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/mRZj2Rd6UtDpTjNAR4RB0855stA.jpg" group-title="Series Korea",Chief of Staff S01 E10
-https://nonton.site:8443/series/Akhbar/Fadilah/32773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pNbeLRrMoff6liSMsmZGp3iEcZ.jpg" group-title="Series Korea",Chief of Staff S02 E01
-https://nonton.site:8443/series/Akhbar/Fadilah/32774.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XBS2csHLKrXZXyH2TmM8A1semv.jpg" group-title="Series Korea",Chief of Staff S02 E02
-https://nonton.site:8443/series/Akhbar/Fadilah/32775.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k77lh1e7aLYLx2yxEn0zml7Kxcx.jpg" group-title="Series Korea",Chief of Staff S02 E03
-https://nonton.site:8443/series/Akhbar/Fadilah/32776.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evqVreARu5XWGINXm2Hqk5PRglX.jpg" group-title="Series Korea",Chief of Staff S02 E04
-https://nonton.site:8443/series/Akhbar/Fadilah/32777.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6qX4FznVfSyj8wiOlKcjB1tRBd.jpg" group-title="Series Korea",Chief of Staff S02 E05
-https://nonton.site:8443/series/Akhbar/Fadilah/32778.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRRroQqeeD3Bl2B7UGc8IJb7uyt.jpg" group-title="Series Korea",Chief of Staff S02 E06
-https://nonton.site:8443/series/Akhbar/Fadilah/32779.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2kUIfsY7TANPpe6vacrqeXje6O.jpg" group-title="Series Korea",Chief of Staff S02 E07
-https://nonton.site:8443/series/Akhbar/Fadilah/32780.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZw6s9Y5X6UY5b42CUtYmw0fvBQ.jpg" group-title="Series Korea",Chief of Staff S02 E08
-https://nonton.site:8443/series/Akhbar/Fadilah/32781.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lL85KkR1JlFssWs3SyjtZ2WSVxD.jpg" group-title="Series Korea",Chief of Staff S02 E09
-https://nonton.site:8443/series/Akhbar/Fadilah/32782.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chief of Staff S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zArz48jdc5KqvFRIcO8GtkUNCSG.jpg" group-title="Series Korea",Chief of Staff S02 E10
-https://nonton.site:8443/series/Akhbar/Fadilah/32783.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Chd4k2IdX4DgjKRmQjvdxcnOMa.jpg" group-title="Series Korea",Are You Human? S01 E01
-https://nonton.site:8443/series/Akhbar/Fadilah/23709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJJ6UlAG1b1qkHopwEdJhoMV3Uo.jpg" group-title="Series Korea",Are You Human? S01 E02
-https://nonton.site:8443/series/Akhbar/Fadilah/23710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRWDL5s0mJ062Krj1tZ4LOqFEkZ.jpg" group-title="Series Korea",Are You Human? S01 E03
-https://nonton.site:8443/series/Akhbar/Fadilah/23711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hETp4ha3azMJFaR2sA3pgazwSmd.jpg" group-title="Series Korea",Are You Human? S01 E04
-https://nonton.site:8443/series/Akhbar/Fadilah/23712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UEU8jK27TphIwfI9VGllKUcdMr.jpg" group-title="Series Korea",Are You Human? S01 E05
-https://nonton.site:8443/series/Akhbar/Fadilah/23713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcZ8EUtMiZuCFSVaNUfwDshjPfV.jpg" group-title="Series Korea",Are You Human? S01 E06
-https://nonton.site:8443/series/Akhbar/Fadilah/23714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3G1EMHd1294NYNU0fWtMe1ytv3.jpg" group-title="Series Korea",Are You Human? S01 E07
-https://nonton.site:8443/series/Akhbar/Fadilah/23715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DRwEVwElk72Qmk330myktOzGF0.jpg" group-title="Series Korea",Are You Human? S01 E08
-https://nonton.site:8443/series/Akhbar/Fadilah/23716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHYL47pceFptOyt6Xhex6iHOFWf.jpg" group-title="Series Korea",Are You Human? S01 E09
-https://nonton.site:8443/series/Akhbar/Fadilah/23717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSwp1bgVYPJMuW0JW1lyeVZ99Vx.jpg" group-title="Series Korea",Are You Human? S01 E10
-https://nonton.site:8443/series/Akhbar/Fadilah/23718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ysaJ3PRH47zpOJ7OHezMcf7PJK.jpg" group-title="Series Korea",Are You Human? S01 E11
-https://nonton.site:8443/series/Akhbar/Fadilah/23719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaRsKtbLC6Qe7gNyN3tjBO7aDkK.jpg" group-title="Series Korea",Are You Human? S01 E12
-https://nonton.site:8443/series/Akhbar/Fadilah/23720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0TezB68ZdSBpGVRqmAy7wEbfDM.jpg" group-title="Series Korea",Are You Human? S01 E13
-https://nonton.site:8443/series/Akhbar/Fadilah/23721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHt91LhdzOQsfzV3zyPVivbWOjM.jpg" group-title="Series Korea",Are You Human? S01 E14
-https://nonton.site:8443/series/Akhbar/Fadilah/23722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohWLnxA5GgNyuh2Nu65HOiyNHX7.jpg" group-title="Series Korea",Are You Human? S01 E15
-https://nonton.site:8443/series/Akhbar/Fadilah/23723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lufGPtOe1s9ZpplV1zIk6FHVXVF.jpg" group-title="Series Korea",Are You Human? S01 E16
-https://nonton.site:8443/series/Akhbar/Fadilah/23724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwMtnhGnSCjPzyHBtR58Jl8WjMb.jpg" group-title="Series Korea",Are You Human? S01 E17
-https://nonton.site:8443/series/Akhbar/Fadilah/23725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Are You Human? S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNzD1I8KBfHP1vfBdqSnNV8v6wz.jpg" group-title="Series Korea",Are You Human? S01 E18
-https://nonton.site:8443/series/Akhbar/Fadilah/23726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JECa3CZfgVQFabmiZKm1L3XSXj.jpg" group-title="Series Korea",Descendants of the Sun S01 E01
-https://nonton.site:8443/series/Akhbar/Fadilah/23833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JECa3CZfgVQFabmiZKm1L3XSXj.jpg" group-title="Series Korea",Descendants of the Sun S01 E02
-https://nonton.site:8443/series/Akhbar/Fadilah/23832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JECa3CZfgVQFabmiZKm1L3XSXj.jpg" group-title="Series Korea",Descendants of the Sun S01 E03
-https://nonton.site:8443/series/Akhbar/Fadilah/23831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXlwSA14RtOwPyKtGhO0JJ9Wn7v.jpg" group-title="Series Korea",Descendants of the Sun S01 E04
-https://nonton.site:8443/series/Akhbar/Fadilah/23815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTap9guhI30Y1oIqVLNpqlGcRXx.jpg" group-title="Series Korea",Descendants of the Sun S01 E05
-https://nonton.site:8443/series/Akhbar/Fadilah/23816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfTXRWYvMbtaSiG7OvFer58xvVZ.jpg" group-title="Series Korea",Descendants of the Sun S01 E06
-https://nonton.site:8443/series/Akhbar/Fadilah/23817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkLrN7y42yhCnfpMXp4uuPrhRHD.jpg" group-title="Series Korea",Descendants of the Sun S01 E07
-https://nonton.site:8443/series/Akhbar/Fadilah/23818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljpog4r8ag4rc8DD8vtX1YOa4nP.jpg" group-title="Series Korea",Descendants of the Sun S01 E08
-https://nonton.site:8443/series/Akhbar/Fadilah/23819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qq2FDYbH8fjAjPEmHF74HxVIst.jpg" group-title="Series Korea",Descendants of the Sun S01 E09
-https://nonton.site:8443/series/Akhbar/Fadilah/23820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zu8bVV1SfjJsDd9cHIFo5T8z9U.jpg" group-title="Series Korea",Descendants of the Sun S01 E10
-https://nonton.site:8443/series/Akhbar/Fadilah/23821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xnMRBsGtQGitSfRvZR5r2MtMj4.jpg" group-title="Series Korea",Descendants of the Sun S01 E11
-https://nonton.site:8443/series/Akhbar/Fadilah/23822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xN2qLOArZIVFcXIpqz2Mc4gwmeF.jpg" group-title="Series Korea",Descendants of the Sun S01 E12
-https://nonton.site:8443/series/Akhbar/Fadilah/23823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ex5E8or6LaVjfaE2Dmxpx9dZgcw.jpg" group-title="Series Korea",Descendants of the Sun S01 E13
-https://nonton.site:8443/series/Akhbar/Fadilah/23824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eqPKGqnJIEc7HIsYOhRqiUIBBs.jpg" group-title="Series Korea",Descendants of the Sun S01 E14
-https://nonton.site:8443/series/Akhbar/Fadilah/23825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ee3hlcRP7taSaEjJp5ooyg6uL74.jpg" group-title="Series Korea",Descendants of the Sun S01 E15
-https://nonton.site:8443/series/Akhbar/Fadilah/23826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8t7z64JuyN4rCpTY7LVZHywoxyh.jpg" group-title="Series Korea",Descendants of the Sun S01 E16
-https://nonton.site:8443/series/Akhbar/Fadilah/23827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSij4jaKBkvLb0saIIqIzhwxsgy.jpg" group-title="Series Korea",Descendants of the Sun S01 E17
-https://nonton.site:8443/series/Akhbar/Fadilah/23828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rD3F1tHDVHbSseGWhKMwW8YHsu9.jpg" group-title="Series Korea",Descendants of the Sun S01 E18
-https://nonton.site:8443/series/Akhbar/Fadilah/23829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Descendants of the Sun S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2qJ4T5C2jmdwN9gK2RTkvYHxzg.jpg" group-title="Series Korea",Descendants of the Sun S01 E19
-https://nonton.site:8443/series/Akhbar/Fadilah/23830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="See S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rH7XMZai3JdGi83e7bWMXJxXk4k.jpg" group-title="Serial",See S01 E01
-https://nonton.site:8443/series/Akhbar/Fadilah/4922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="See S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnBZ9eY01nzNAWPf691UySZVcI0.jpg" group-title="Serial",See S01 E02
-https://nonton.site:8443/series/Akhbar/Fadilah/4921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="See S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYkGfl1ulpm0e6gps8uvLub2Ky1.jpg" group-title="Serial",See S01 E03
-https://nonton.site:8443/series/Akhbar/Fadilah/4920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="See S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ke3j6KhQmJBjLneunuG6yaSePzU.jpg" group-title="Serial",See S01 E04
-https://nonton.site:8443/series/Akhbar/Fadilah/4919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="See S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Mq2p5o2DR5VbNiVOOqqU0nf1X2.jpg" group-title="Serial",See S01 E05
-https://nonton.site:8443/series/Akhbar/Fadilah/4918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="See S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/4G7UsI5SdNXgv4OTWQQ83JBSfD9.jpg" group-title="Serial",See S01 E06
-https://nonton.site:8443/series/Akhbar/Fadilah/9207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="See S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/6fTXWzWPU8uqljCbKhF1J5qdWHU.jpg" group-title="Serial",See S01 E07
-https://nonton.site:8443/series/Akhbar/Fadilah/9208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qgtga389R88dR3dfxk2KAuAdJi.jpg" group-title="Serial",Treadstone S01 E01
-https://nonton.site:8443/series/Akhbar/Fadilah/4945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlyFRlRZhcCfgMSWvpdvSxHMKzd.jpg" group-title="Serial",Treadstone S01 E02
-https://nonton.site:8443/series/Akhbar/Fadilah/4944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eq1GJG28LhSSnVtJBgZ5w1UjD1x.jpg" group-title="Serial",Treadstone S01 E03
-https://nonton.site:8443/series/Akhbar/Fadilah/4943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcjH4X7yBzarYd2ectZ6qwVhQdB.jpg" group-title="Serial",Treadstone S01 E04
-https://nonton.site:8443/series/Akhbar/Fadilah/4942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjE68xIS0aZtkHTNFITev3Z3i6o.jpg" group-title="Serial",Treadstone S01 E05
-https://nonton.site:8443/series/Akhbar/Fadilah/4946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjE68xIS0aZtkHTNFITev3Z3i6o.jpg" group-title="Serial",Treadstone S01 E06
-https://go.gofilm20.workers.dev/0:/Treadstone.S01E06.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjE68xIS0aZtkHTNFITev3Z3i6o.jpg" group-title="Serial",Treadstone S01 E07
-https://go.gofilm20.workers.dev/0:/Treadstone.S01E07.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjE68xIS0aZtkHTNFITev3Z3i6o.jpg" group-title="Serial",Treadstone S01 E08
-https://go.gofilm20.workers.dev/0:/Treadstone.S01E08.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjE68xIS0aZtkHTNFITev3Z3i6o.jpg" group-title="Serial",Treadstone S01 E09
-https://go.gofilm20.workers.dev/0:/Treadstone%20S01E09.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Treadstone S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjE68xIS0aZtkHTNFITev3Z3i6o.jpg" group-title="Serial",Treadstone S01 E10
-https://go.gofilm20.workers.dev/0:/Treadstone.S01E10.mp4
