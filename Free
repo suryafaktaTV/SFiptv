@@ -30,6 +30,11 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="ANTV.Id" tvg-logo="https://cdn.ksa.my.id/antv.png" group-title="National TV",ANTV-mivo
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_288p/chunks.m3u8?nimblesessionid=4239032&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDIyIDU6MDM6MTYgQU0maGFzaF92YWx1ZT1xbnVjbk81bEZ3YndCRXhGYmQrN2tBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTE5MjgzMzk3fDM2Ljc0Ljg3LjEyNg==
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="Trans7.Id" tvg-logo="https://cdn.ksa.my.id/trans7.png" group-title="National TV",Trans 7
 https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
